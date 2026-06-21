@@ -1,37 +1,25 @@
-## Summary
+## Description
+<!-- Provide a clear summary of the changes introduced by this PR. Include motivation and context. -->
 
-Describe the change clearly.
+Closes # <!-- Link the Asana issue here -->
 
----
-
-## Type of Change
-
-- [ ] Bug fix
-- [ ] New feature
-- [ ] Refactor
-- [ ] CMS/content model change
+## Type of change
+<!-- Please delete options that are not relevant. -->
+- [ ] Bug fix <!--(non-breaking change, fixes an issue)-->
+- [ ] New feature <!--(non-breaking change, adds functionality)-->
+- [ ] Breaking change <!--(fix or feature causing existing functionality to change)-->
+- [ ] CMS/Content model change
 - [ ] Plugin installation/update
-- [ ] Permissions change
+- [ ] Chore/Refactor <!-- (code optimization, styling, file reorganizations, etc.)-->
+- [ ] Documentation update
+- [ ] Permission update
 
----
-
-## Craft CMS Checklist
-
-- [ ] Added/updated required permissions
-- [ ] Updated affected user groups
-- [ ] Tested with non-admin user
-- [ ] Verified CP navigation visibility
+## Tests
 - [ ] Verified create/edit/save permissions
-- [ ] Verified plugin access
-
----
-
-## Screenshots
-
-Include screenshots/videos if applicable.
-
----
+- [ ] Tested empty/error states
+- [ ] Verified CP navigation visibility
+- [ ] Verified no new console  warnings/errors
+- [ ] Verified access as non-admin
 
 ## Deployment Notes
-
 Anything special required during deployment?
